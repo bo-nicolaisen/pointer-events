@@ -1,0 +1,15 @@
+
+body { touch-action: none; }
+
+
+
+#swipeBox{
+    background-color: coral;
+    touch-action: none; 
+    width: 300px;
+    height: 400px;
+}
+
+h2 {
+    display: inline-block;
+}
